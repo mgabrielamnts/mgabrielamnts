@@ -1,4 +1,4 @@
-# Oii! 👋 Maria Gabriela aqui
+# Oii! 👋 sou a Maria Gabriela 
 
 🎓 Engenheira Química em transição para a área de Dados
 📊 Focada em Data Analytics, Business Intelligence e automação de processos
