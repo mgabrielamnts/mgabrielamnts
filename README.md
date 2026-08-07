@@ -93,7 +93,7 @@ Análise estatística de dados de redes sociais e saúde mental.
 
 <!-- GIF -->
 <p align="center">
-  <img src="./cat-me.png" alt="gif" width="400">
+  <img src="./cat-me.png" alt="gif" width="300">
 </p>
 
 <p align="center">
