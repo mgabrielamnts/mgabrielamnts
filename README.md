@@ -6,7 +6,7 @@
 
 <!-- CAPA -->
 <p align="center">
-  <p align="center"> <img src="./cover3.png" alt="Banner" width="100%"> </p>
+  <p align="center"> <img src="./toto.png" alt="Banner" width="100%"> </p>
 </p>
 
 ---
