@@ -6,7 +6,7 @@
 
 <!-- CAPA -->
 <p align="center">
-  <img src="./cover3.png" alt="Banner" width="100%" height="30%">
+  <img src="./cover3.png" alt="Banner" width="70%">
 </p>
 
 ---
