@@ -1,8 +1,3 @@
-<!--
-  ================================================================
-  README de perfil do GitHub — tema neon roxo/rosa pixelado
-  ================================================================
--->
 
 <!-- CAPA -->
 <p align="center">
@@ -58,6 +53,7 @@ Aqui no GitHub guardo os projetos e estudos dessa transição de carreira.
     <td><img src="ia.png" width="60" height="60"/><br><sub>IA Generator <i>(aprendendo)</i></sub></td>
   </tr>
 </table>
+
 ---
 
 
